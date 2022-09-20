@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: deep-classifier
+Version: 0.0.1
+Home-page: https://github.com/niteshgupta2711/dvc_ineuron
+Author: nitesh kumar gupta
+Author-email: guptanitesh2711@gmail.com
+License: MIT
+Project-URL: Bug Tracker , https://github.com/niteshgupta2711/dvc_ineuron
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Provides-Extra: testing
+License-File: LICENSE
+
+### DEEP classifier project
+
+
+```
+By default empty folders are not uploaded to github, which is why we write  a .gitkeep init
+```
+
+```
+commit changes relevent to each other to gether
+```
+
+

@@ -139,3 +139,7 @@ yarl==1.8.1
 zc.lockfile==2.0
 zipp==3.8.1
 -e .
+python-box==1.0.2
+ensure==1.0.2
+tqdm
+PyYAML

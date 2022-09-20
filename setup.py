@@ -8,13 +8,15 @@ EMAIL='guptanitesh2711@gmail.com'
 __version__='0.0.1'
 
 
-setup(name='deep classifier',
+setup(name='deep_classifier',
 author=AUTHOR,
 author_email=EMAIL,
 license='MIT',
 version=__version__,
-install_requires=['tensorflow','pandas','numpy','matplotlib'],
-packages=find_packages(where='src'),
+#install_requires=['tensorflow','pandas','numpy','matplotlib'],
+packages=find_packages(where="src"),
 long_description=LONG_DESCRIPTION,
 url='https://github.com/niteshgupta2711/dvc_ineuron',
-project_urls={'Bug Tracker ': 'https://github.com/niteshgupta2711/dvc_ineuron'})
+package_dir={"": "src"},
+project_urls={'Bug Tracker ': 'https://github.com/niteshgupta2711/dvc_ineuron'},
+)
