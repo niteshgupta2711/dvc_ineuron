@@ -18,7 +18,7 @@ f'src/{package_name}/__init__.py',
 'tox.ini',
 'notebooks/trials.ipynb',
 '.gitignore',
-
+'requirements_dev.txt',
 ]
 
 if __name__=='__main__':
