@@ -8,7 +8,7 @@ EMAIL='guptanitesh2711@gmail.com'
 __version__='0.0.1'
 
 
-setup(name='deep_classifier',
+setup(name='deepclassifier',
 author=AUTHOR,
 author_email=EMAIL,
 license='MIT',

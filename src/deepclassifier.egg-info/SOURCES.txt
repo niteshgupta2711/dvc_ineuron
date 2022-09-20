@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/DEEP_Classifier/__init__.py
+src/DEEP_Classifier/components/__init__.py
+src/DEEP_Classifier/constants/__init__.py
+src/DEEP_Classifier/entity/__init__.py
+src/DEEP_Classifier/pipeline/__init__.py
+src/DEEP_Classifier/utils/__init__.py
+src/DEEP_Classifier/utils/common.py
+src/deepclassifier.egg-info/PKG-INFO
+src/deepclassifier.egg-info/SOURCES.txt
+src/deepclassifier.egg-info/dependency_links.txt
+src/deepclassifier.egg-info/requires.txt
+src/deepclassifier.egg-info/top_level.txt
