@@ -24,5 +24,6 @@ if __name__=='__main__':
         if dir=='':
             dir='./'
         os.makedirs(dir, exist_ok=True)
-        with open(os.path.join(dir,file),'w') as f1:
-            pass
+        if (not os.path.exists(os.path.join(dir,file))) or os.path.getsize(os.path.join(dir,file))==0:
+            with open(os.path.join(dir,file),'w') as f1:
+                pass
